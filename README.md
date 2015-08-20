@@ -1,4 +1,4 @@
-# Demo de un webchat
+# Demo de un webchat con Node
 
 # Tecnologías:
 
