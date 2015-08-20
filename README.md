@@ -1,6 +1,6 @@
 # Demo de un webchat con Node y SocketIO
 
-# Tecnologías:
+## Tecnologías:
 
  * Nodejs
  * Socket.IO
