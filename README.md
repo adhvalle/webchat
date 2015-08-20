@@ -1,4 +1,4 @@
-# Demo de un webchat con Node
+# Demo de un webchat con Node y SocketIO
 
 # Tecnologías:
 
